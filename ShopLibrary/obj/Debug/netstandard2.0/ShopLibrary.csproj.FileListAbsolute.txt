@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.deps.json
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.dll
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\bin\Debug\netstandard2.0\ShopLibrary.pdb
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.dll
+C:\Users\Administrator\source\repos\Shop\ShopLibrary\obj\Debug\netstandard2.0\ShopLibrary.pdb
